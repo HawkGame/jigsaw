@@ -1,10 +1,10 @@
 {
 	"packDatas": [{
 		"name": "7 Wonders 1",
-		"bannerUrl": "https://sellgamesource.com/jigsaw/7_wonders_1/banners/banner_3.jpg",
+		"bannerUrl": "https://s3-us-west-2.amazonaws.com/aoz-user-icon/2272164.jpg",
 		"price": 40,
 		"photoDatas": [{
-			"iconUrl": "https://sellgamesource.com/jigsaw/7_wonders_1/icons/icon_0.jpg",
+			"iconUrl": "https://s3-us-west-2.amazonaws.com/aoz-user-icon/2272164.jpg",
 			"imageUrl": "https://sellgamesource.com/jigsaw/7_wonders_1/images/image_0.jpg",
 			"bannerUrl": "https://sellgamesource.com/jigsaw/7_wonders_1/banners/banner_0.jpg"
 		}, {
