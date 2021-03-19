@@ -1,9 +1,13 @@
 {
 	"packDatas": [{
 		"name": "Zootopia",
-		"bannerUrl": "banner_0.jpg",
+		"bannerUrl": "pack_banner.jpg",
 		"price": 40,
 		"photoDatas": [{
+			"iconUrl": "icon_0.jpg",
+			"imageUrl": "image_0.jpg",
+			"bannerUrl": "banner_0.jpg"
+		},{
 			"iconUrl": "icon_1.jpg",
 			"imageUrl": "image_1.jpg",
 			"bannerUrl": "banner_1.jpg"
@@ -64,17 +68,17 @@
 			"iconUrl": "icon_15.jpg",
 			"imageUrl": "image_15.jpg",
 			"bannerUrl": "banner_15.jpg"
-		}, {
-			"iconUrl": "icon_16.jpg",
-			"imageUrl": "image_16.jpg",
-			"bannerUrl": "banner_16.jpg"
 		}]
 	},
 	{
 		"name": "butterfly",
-		"bannerUrl": "banner_0.jpg",
+		"bannerUrl": "pack_banner.jpg",
 		"price": 40,
 		"photoDatas": [{
+			"iconUrl": "icon_0.jpg",
+			"imageUrl": "image_0.jpg",
+			"bannerUrl": "banner_0.jpg"
+		},{
 			"iconUrl": "icon_1.jpg",
 			"imageUrl": "image_1.jpg",
 			"bannerUrl": "banner_1.jpg"
@@ -211,17 +215,17 @@
 			"iconUrl": "icon_34.jpg",
 			"imageUrl": "image_34.jpg",
 			"bannerUrl": "banner_34.jpg"
-		}, {
-			"iconUrl": "icon_35.jpg",
-			"imageUrl": "image_35.jpg",
-			"bannerUrl": "banner_35.jpg"
 		}]
 	},
 	{
 		"name": "flower",
-		"bannerUrl": "banner_0.jpg",
+		"bannerUrl": "pack_banner.jpg",
 		"price": 40,
 		"photoDatas": [{
+			"iconUrl": "icon_0.jpg",
+			"imageUrl": "image_0.jpg",
+			"bannerUrl": "banner_0.jpg"
+		},{
 			"iconUrl": "icon_1.jpg",
 			"imageUrl": "image_1.jpg",
 			"bannerUrl": "banner_1.jpg"
@@ -270,17 +274,17 @@
 			"iconUrl": "icon_13.jpg",
 			"imageUrl": "image_13.jpg",
 			"bannerUrl": "banner_13.jpg"
-		}, {
-			"iconUrl": "icon_14.jpg",
-			"imageUrl": "image_14.jpg",
-			"bannerUrl": "banner_14.jpg"
 		}]
 	},
 	{
 		"name": "insect",
-		"bannerUrl": "banner_0.jpg",
+		"bannerUrl": "pack_banner.jpg",
 		"price": 40,
 		"photoDatas": [{
+			"iconUrl": "icon_0.jpg",
+			"imageUrl": "image_0.jpg",
+			"bannerUrl": "banner_0.jpg"
+		},{
 			"iconUrl": "icon_1.jpg",
 			"imageUrl": "image_1.jpg",
 			"bannerUrl": "banner_1.jpg"
@@ -325,10 +329,6 @@
 			"iconUrl": "icon_12.jpg",
 			"imageUrl": "image_12.jpg",
 			"bannerUrl": "banner_12.jpg"
-		}, {
-			"iconUrl": "icon_13.jpg",
-			"imageUrl": "image_13.jpg",
-			"bannerUrl": "banner_13.jpg"
 		}]
 	}]
 }
