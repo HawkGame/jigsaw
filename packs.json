@@ -163,13 +163,6 @@
 			"photoDatas": []
 		},
 		{
-			"name": "flower",
-			"bannerUrl": "pack_banner.jpg",
-			"price": 40,
-			"count": 14,
-			"photoDatas": []
-		},
-		{
 			"name": "frog",
 			"bannerUrl": "pack_banner.jpg",
 			"price": 40,
