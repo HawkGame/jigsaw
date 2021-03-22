@@ -1,87 +1,18 @@
 {
-	"packDatas": [{
-		"name": "Zootopia",
-		"bannerUrl": "icon_2.jpg",
-		"price": 40,
-		"photoDatas": [{
-			"iconUrl": "icon_0.jpg",
-			"imageUrl": "image_0.jpg",
-			"bannerUrl": "banner_0.jpg"
-		}, {
-			"iconUrl": "icon_1.jpg",
-			"imageUrl": "image_1.jpg",
-			"bannerUrl": "banner_1.jpg"
-		}, {
-			"iconUrl": "icon_2.jpg",
-			"imageUrl": "image_2.jpg",
-			"bannerUrl": "banner_2.jpg"
-		}, {
-			"iconUrl": "icon_3.jpg",
-			"imageUrl": "image_3.jpg",
-			"bannerUrl": "banner_3.jpg"
-		}, {
-			"iconUrl": "icon_4.jpg",
-			"imageUrl": "image_4.jpg",
-			"bannerUrl": "banner_4.jpg"
-		}, {
-			"iconUrl": "icon_5.jpg",
-			"imageUrl": "image_5.jpg",
-			"bannerUrl": "banner_5.jpg"
-		}, {
-			"iconUrl": "icon_6.jpg",
-			"imageUrl": "image_6.jpg",
-			"bannerUrl": "banner_6.jpg"
-		}, {
-			"iconUrl": "icon_7.jpg",
-			"imageUrl": "image_7.jpg",
-			"bannerUrl": "banner_7.jpg"
-		}]
-	},
-	{
-		"name": "world_national_parks",
-		"bannerUrl": "icon_4.jpg",
-		"price": 40,
-		"photoDatas": [{
-			"iconUrl": "icon_0.jpg",
-			"imageUrl": "image_0.jpg",
-			"bannerUrl": "banner_0.jpg"
-		}, {
-			"iconUrl": "icon_1.jpg",
-			"imageUrl": "image_1.jpg",
-			"bannerUrl": "banner_1.jpg"
-		}, {
-			"iconUrl": "icon_2.jpg",
-			"imageUrl": "image_2.jpg",
-			"bannerUrl": "banner_2.jpg"
-		}, {
-			"iconUrl": "icon_3.jpg",
-			"imageUrl": "image_3.jpg",
-			"bannerUrl": "banner_3.jpg"
-		}, {
-			"iconUrl": "icon_4.jpg",
-			"imageUrl": "image_4.jpg",
-			"bannerUrl": "banner_4.jpg"
-		}, {
-			"iconUrl": "icon_5.jpg",
-			"imageUrl": "image_5.jpg",
-			"bannerUrl": "banner_5.jpg"
-		}, {
-			"iconUrl": "icon_6.jpg",
-			"imageUrl": "image_6.jpg",
-			"bannerUrl": "banner_6.jpg"
-		}, {
-			"iconUrl": "icon_7.jpg",
-			"imageUrl": "image_7.jpg",
-			"bannerUrl": "banner_7.jpg"
+	"packDatas": [
+		{
+			"name": "Zootopia1",
+			"bannerUrl": "pack_banner.jpg",
+			"price": 40,
+			"count": 8,
+			"photoDatas": []
+		},
+		{
+			"name": "Zootopia2",
+			"bannerUrl": "pack_banner.jpg",
+			"price": 40,
+			"count": 8,
+			"photoDatas": []
 		}
-		, {
-			"iconUrl": "icon_8.jpg",
-			"imageUrl": "image_8.jpg",
-			"bannerUrl": "banner_8.jpg"
-		}, {
-			"iconUrl": "icon_9.jpg",
-			"imageUrl": "image_9.jpg",
-			"bannerUrl": "banner_9.jpg"
-		}]
-	}]
+	]
 }
