@@ -10,7 +10,7 @@
 		{
 			"name": "Zootopia2",
 			"bannerUrl": "pack_banner.jpg",
-			"price": 10,
+			"price": 0,
 			"count": 8,
 			"photoDatas": []
 		},
@@ -24,14 +24,14 @@
 		{
 			"name": "butterfly2",
 			"bannerUrl": "pack_banner.jpg",
-			"price": 10,
+			"price": 40,
 			"count": 10,
 			"photoDatas": []
 		},
 		{
 			"name": "butterfly3",
 			"bannerUrl": "pack_banner.jpg",
-			"price": 5,
+			"price": 40,
 			"count": 10,
 			"photoDatas": []
 		},
@@ -45,7 +45,7 @@
 		{
 			"name": "bird2",
 			"bannerUrl": "pack_banner.jpg",
-			"price": 20,
+			"price": 40,
 			"count": 12,
 			"photoDatas": []
 		},
@@ -59,7 +59,7 @@
 		{
 			"name": "candy1",
 			"bannerUrl": "pack_banner.jpg",
-			"price": 0,
+			"price": 40,
 			"count": 8,
 			"photoDatas": []
 		},
@@ -80,7 +80,7 @@
 		{
 			"name": "cartoon2",
 			"bannerUrl": "pack_banner.jpg",
-			"price": 20,
+			"price": 50,
 			"count": 12,
 			"photoDatas": []
 		},
@@ -94,7 +94,7 @@
 		{
 			"name": "cartoon4",
 			"bannerUrl": "pack_banner.jpg",
-			"price": 20,
+			"price": 0,
 			"count": 12,
 			"photoDatas": []
 		},
@@ -115,14 +115,14 @@
 		{
 			"name": "cg1",
 			"bannerUrl": "pack_banner.jpg",
-			"price": 20,
+			"price": 0,
 			"count": 12,
 			"photoDatas": []
 		},
 		{
 			"name": "cg2",
 			"bannerUrl": "pack_banner.jpg",
-			"price": 20,
+			"price": 50,
 			"count": 12,
 			"photoDatas": []
 		},
@@ -173,7 +173,7 @@
 		{
 			"name": "fruits",
 			"bannerUrl": "pack_banner.jpg",
-			"price": 30,
+			"price": 50,
 			"count": 8,
 			"photoDatas": []
 		},
@@ -188,7 +188,7 @@
 		{
 			"name": "lizard",
 			"bannerUrl": "pack_banner.jpg",
-			"price": 20,
+			"price": 40,
 			"count": 10,
 			"photoDatas": []
 		},
@@ -211,7 +211,7 @@
 		{
 			"name": "scenery1",
 			"bannerUrl": "pack_banner.jpg",
-			"price": 30,
+			"price": 0,
 			"count": 12,
 			"photoDatas": []
 		}
@@ -219,7 +219,7 @@
 		{
 			"name": "scenery2",
 			"bannerUrl": "pack_banner.jpg",
-			"price": 40,
+			"price": 50,
 			"count": 11,
 			"photoDatas": []
 		}
@@ -274,7 +274,7 @@
 		{
 			"name": "animal6",
 			"bannerUrl": "pack_banner.jpg",
-			"price": 10,
+			"price": 0,
 			"count": 10,
 			"photoDatas": []
 		}
@@ -346,7 +346,7 @@
 		{
 			"name": "botany2",
 			"bannerUrl": "pack_banner.jpg",
-			"price": 40,
+			"price": 100,
 			"count": 8,
 			"photoDatas": []
 		}
@@ -378,7 +378,7 @@
 		{
 			"name": "caricature2",
 			"bannerUrl": "pack_banner.jpg",
-			"price": 60,
+			"price": 150,
 			"count": 10,
 			"photoDatas": []
 		}
@@ -386,7 +386,7 @@
 		{
 			"name": "caricature3",
 			"bannerUrl": "pack_banner.jpg",
-			"price": 0,
+			"price": 150,
 			"count": 10,
 			"photoDatas": []
 		}
@@ -418,7 +418,7 @@
 		{
 			"name": "caricature7",
 			"bannerUrl": "pack_banner.jpg",
-			"price": 60,
+			"price": 0,
 			"count": 10,
 			"photoDatas": []
 		}
@@ -443,7 +443,7 @@
 		{
 			"name": "game1",
 			"bannerUrl": "pack_banner.jpg",
-			"price": 0,
+			"price": 150,
 			"count": 10,
 			"photoDatas": []
 		}
@@ -459,7 +459,7 @@
 		{
 			"name": "game3",
 			"bannerUrl": "pack_banner.jpg",
-			"price": 0,
+			"price": 150,
 			"count": 10,
 			"photoDatas": []
 		}
@@ -579,7 +579,7 @@
 		{
 			"name": "scenery5",
 			"bannerUrl": "pack_banner.jpg",
-			"price": 0,
+			"price": 150,
 			"count": 10,
 			"photoDatas": []
 		}
@@ -595,7 +595,7 @@
 		{
 			"name": "scenery7",
 			"bannerUrl": "pack_banner.jpg",
-			"price": 0,
+			"price": 150,
 			"count": 10,
 			"photoDatas": []
 		}
